@@ -1,0 +1,10 @@
+{
+    "name": "hzswdef/composer_example",
+    "description": "Example of PHP project with composer.",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
